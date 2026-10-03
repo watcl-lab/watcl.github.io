@@ -10,7 +10,7 @@ permalink: /group_achievements
 
 ### Recognitions
 
-- 30 April 2026: Muhammad's paper <a href='https://arxiv.org/abs/2601.23207'>Learning to Execute Graph Algorithms Exactly with Graph Neural Networks</a> was accepted at ICML 2026 as Spotlight, top 2.2%.
+- 30 April 2026: <a href='https://muhammadfetrat.github.io'>Muhammad</a>'s paper <a href='https://arxiv.org/abs/2601.23207'>Learning to Execute Graph Algorithms Exactly with Graph Neural Networks</a> was accepted at ICML 2026 as Spotlight, top 2.2%.
 
 - 7 July 2025: <a href='https://aseemrb.me'>Aseem Baranwal</a> has won the <a href='https://cs.uwaterloo.ca/news/aseem-baranwal-receives-2025-cheriton-distinguished-dissertation-award'>SCS PhD Dissertation Award</a>!
 
@@ -32,7 +32,7 @@ permalink: /group_achievements
 
 ### Scholarships
 
-- Spring 2026: Muhammad Fetrat Qharabagh was awarded the Cheriton Scholarship.
+- Spring 2026: <a href='https://muhammadfetrat.github.io'>Muhammad Fetrat Qharabagh</a> was awarded the Cheriton Scholarship.
 
 - 22 April 2026: <a href='https://artur-deluca.github.io'>Artur Back de Luca</a> has won the <a href='https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-doctoral-program'>NSERC Canada Graduate Research Scholarship</a>.
 
