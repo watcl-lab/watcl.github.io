@@ -32,6 +32,8 @@ permalink: /group_achievements
 
 ### Scholarships
 
+- Spring 2026: Muhammad Fetrat Qharabagh was awarded the Cheriton Scholarship.
+
 - 22 April 2026: <a href='https://artur-deluca.github.io'>Artur Back de Luca</a> has won the <a href='https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-doctoral-program'>NSERC Canada Graduate Research Scholarship</a>.
 
 - 13 February 2026: <a href='https://cs.uwaterloo.ca/~s286yang/'>Shenghao Yang</a> has been awarded the <a href='https://nserc-crsng.canada.ca/en/funding-opportunity/canada-postdoctoral-research-award-program'>NSERC Post Doctoral Fellowship</a>.
