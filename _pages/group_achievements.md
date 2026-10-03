@@ -32,7 +32,7 @@ permalink: /group_achievements
 
 ### Scholarships
 
-- Spring 2026: <a href='https://muhammadfetrat.github.io'>Muhammad Fetrat Qharabagh</a> was awarded the Cheriton Scholarship.
+- 2 July 2026: <a href='https://muhammadfetrat.github.io'>Muhammad Fetrat Qharabagh</a> was awarded the Cheriton Scholarship for Spring 2026.
 
 - 22 April 2026: <a href='https://artur-deluca.github.io'>Artur Back de Luca</a> has won the <a href='https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-doctoral-program'>NSERC Canada Graduate Research Scholarship</a>.
 
