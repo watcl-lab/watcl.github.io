@@ -77,7 +77,7 @@ permalink: /group_achievements
 
 - 8 April 2022: <a href='https://cs.uwaterloo.ca/~s286yang/'>Shenghao Yang</a> joined Amazon NY as an intern in July 2022.
 
-### After the Lab
+### Jobs
 
 - 17 April 2026: <a href='https://ggiapitz.me'>George Giapitzakis</a> was accepted as a PhD student at CMU, Yale, NYU and Harvard.
 
