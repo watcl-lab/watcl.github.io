@@ -1,3 +1,25 @@
+- title: "Trustworthy Numerical Software in the Age of AI: What Would Turing Do?"
+  image:
+  description: "AI coding agents can produce numerical software faster than experts can review it. We audit leading GPU QR kernels from a public competition and find that, despite passing its accuracy tests, each fails on at least one new input under the same checker. We describe VSCL, a Lean library of mathematical foundations for numerical computing, and propose VERNA, a framework that uses formalized results to assess numerical kernels against explicit specifications. Drawing on Turing's work on rounding-error analysis and program checking, we discuss how to develop trustworthy numerical software when direct human checking is impractical."
+  authors: K. Fountoulakis, M. Melnichenko, M. F. Qharabagh, G. A. Georgantzas, G. Spyrou, O. Balabanov, V. Georgiou, R. Murray, M. W. Mahoney
+  link:
+    url: https://arxiv.org/abs/2611.21570
+    display: arXiv:2611.21570
+  highlight: 0
+  news2:
+  code:
+    url:
+    display:
+  slides:
+    url:
+    display:
+  video:
+    url:
+    display:
+  preprint:
+    url: https://arxiv.org/abs/2611.21570
+    display: (Preprint)
+
 - title: "Certification from Examples is Hard for Circuits and Transformers under Minimal Overparametrization"
   image:
   description: "As state-of-the-art neural networks are deployed on reasoning and algorithmic tasks, exactness guarantees become increasingly important. However, high average-case accuracy can still mask inconsistent behaviors. This motivates exact certification, which asks for the smallest set of labeled examples needed to certify that a learned hypothesis equals the target. We show that while some hypotheses are easy to certify, even minimal overparametrization can make certification exponentially hard across several hypothesis classes. For threshold circuits of depth larger or equal to two, adding a single extra gate can force certificate sizes exponential in the input dimension. We show an analogous hardness result for log-precision Transformers with only constant architectural overhead. We also characterize approximate certification, showing that allowing only polynomially many mistakes still requires exponentially large certificates, whereas constant relative-error guarantees can hide exponentially many failures. Empirically, we study certification for circuits and Transformers trained to recognize binary addition and find that imperfect models can evade detection unless the certificate is exponentially large."
