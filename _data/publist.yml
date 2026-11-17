@@ -8,8 +8,11 @@
   highlight: 0
   news2:
   code:
-    url:
-    display:
+    url: https://github.com/the-numerical-proving-ground
+    display: (Repository)
+  website:
+    url: https://tnpg.io
+    display: (Website)
   slides:
     url:
     display:
